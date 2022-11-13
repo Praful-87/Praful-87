@@ -1,4 +1,5 @@
 https://www.linkedin.co<h1 align="center">Hi 👋, I'm Praful</h1>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h3 align="center">A passionate full stack web dveloper from India</h3>
 <img align="right" alt="conding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praful-87&label=Profile%20views&color=0e75b6&style=flat" alt="praful-87" /> </p>
@@ -26,4 +27,3 @@ https://www.linkedin.co<h1 align="center">Hi 👋, I'm Praful</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praful-87&show_icons=true&locale=en" alt="praful-87" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praful-87&" alt="praful-87" /></p>
-m/in/praful-jadhao-6ab31a202/
