@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I am funny**
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-hore-4411a1232/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praful-jadhao-6ab31a202/)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Praful-87&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
