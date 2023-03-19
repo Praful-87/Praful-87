@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Bloging app**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web-sockets and aggregation in mongodb**
 
 - 💬 Ask me about **React.js Express.js Node.js MongoDb**
 
-- 📫 How to reach me **prafuljadhao87@gmail.com**
+- 📫 How to reach me **prafuljadhao87@gmail.com or by portfolio or by linkedIn**
 
 - ⚡ Fun fact **I am funny**
 ---
