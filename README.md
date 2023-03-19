@@ -5,11 +5,11 @@
 <img width="400" alt="praful" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e1adcbeafcb08b5218b9f3c6eda3557be4262650&rid=giphy.gif&ct=g" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praful-87&label=Profile%20views&color=0e75b6&style=flat" alt="praful-87" /> </p>
 
-- 🔭 I’m currently working on **inter&theory**
+- 🔭 I’m currently working on **Bloging app**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React.js Express.js Node.js MongoDb**
 
 - 📫 How to reach me **prafuljadhao87@gmail.com**
 
