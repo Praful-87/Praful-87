@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bloging app**
 
-- 🌱 I’m currently learning **Web-sockets and aggregation in mongodb**
+- 🌱 I’m currently learning *Web-sockets and aggregation in mongodb*
 
 - 💬 Ask me about **React.js Express.js Node.js MongoDb**
 
