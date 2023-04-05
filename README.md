@@ -1,7 +1,7 @@
 
 ![logo](https://raw.githubusercontent.com/Praful-87/test/main/my-banner%20(1).gif)
 <h1 align="center">Hi 👋, I'm Praful Jadhao</h1>
-<h3 align="center">A passionate full stack web developer developer from India</h3>
+<h3 align="center">A passionate full stack web developer, Developer from India</h3>
 <img width="400" alt="praful" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e1adcbeafcb08b5218b9f3c6eda3557be4262650&rid=giphy.gif&ct=g" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praful-87&label=Profile%20views&color=0e75b6&style=flat" alt="praful-87" /> </p>
 
